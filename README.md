@@ -28,7 +28,7 @@ A simple and efficient **URL Shortener** built using Flask and SQLite. This appl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/omkar1143-eng/secure-url-shortener.git
    cd url-shortener
    ```
 
